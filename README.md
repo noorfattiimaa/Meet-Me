@@ -1,25 +1,28 @@
-# Meet-Me🌸
+# Meet-Me 🌸
 
-A simple and personal HTML webpage introducing myself, my skills, hobbies, and ways to connect with me.
+This is a small personal HTML project I created while practicing HTML.  
+The page includes my introduction, skills, hobbies, and contact links.
 
 ## 📌 Project Overview
-This project is a static personal profile page built using pure HTML.  
-It includes:
-- Introduction section with a brief bio
-- Core competencies (coding & web development)
-- My interests and hobbies
-- A daily inspiration quote
-- Contact details with icons and links
-- A simple feedback form
+- Simple static profile page
+- Built using pure **HTML5**
+- Practice of different HTML tags, lists, forms, images, and links
+
+## 📂 Features
+- Introduction & short bio
+- Core competencies list (coding & web development)
+- Hobbies and personal interests
+- Daily inspiration quote
+- Contact links with icons
+- Simple feedback form
 
 ## 🛠️ Tech Stack
 - **HTML5**
 
-## 🚀 How to View
- Clone this repository:
-   ```bash
-   git clone https://github.com/noorfattiimaa/Meet-Me.git
+## 📷 Preview
+![Website Preview](screenshot.png) <!-- Replace with your actual screenshot file name -->
 
-<br>
-🎯 Purpose
-This page serves as my personal "About Me" card and a beginner-friendly HTML project to showcase basic structuring and semantic elements.
+## 🚀 How to View
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/meet-noor.git
